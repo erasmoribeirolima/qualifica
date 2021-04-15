@@ -1,0 +1,2 @@
+# qualifica
+códigos da qualificação
